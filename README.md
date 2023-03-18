@@ -45,9 +45,9 @@ To deploy this project run
 
 ## TECH STACK
 
-<img src="https://img.icons8.com/color/120/null/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/120/null/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/officel/120/null/php-logo.png"/>
+<img src="https://img.icons8.com/color/100/null/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/100/null/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/officel/100/null/php-logo.png"/>
 
 
 ## SCREENSHOTS 
