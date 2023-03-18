@@ -47,7 +47,7 @@ To deploy this project run
 
 ![HTML](https://user-images.githubusercontent.com/124377027/226130578-4c097e99-6ae7-4cff-aed5-48575a2da930.png)
 ![java](https://user-images.githubusercontent.com/124377027/226130722-1f2ba523-01cc-4977-9320-16646670bf40.png)
-![php](https://user-images.githubusercontent.com/124377027/226131127-4a3b38f8-4620-4f7d-9c89-c73b49c893ea.png)
+<img src="https://img.icons8.com/officel/60/null/php-logo.png"/>
 
 
 ## SCREENSHOTS 
