@@ -25,7 +25,7 @@ A web application that provides a platform for innovators and entrepreneurs to s
 
 ## KNOWN ISSUES 
 - outdated language 
-- 
+
 
 
 
