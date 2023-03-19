@@ -19,7 +19,8 @@ A web application that provides a platform for innovators and entrepreneurs to s
 
 
 ## KNOWN ISSUES 
--
+- outdated language 
+- 
 
 
 
@@ -32,7 +33,7 @@ A web application that provides a platform for innovators and entrepreneurs to s
 - [@secretannexe](https://github.com/secretannexe)
 
 ## DEMO
-
+<a href="https://www.figma.com/proto/85ESaCwmQ6aJ7qM0LPxhUt/LOOPERS-MEC?page-id=0%3A1&node-id=12-276&viewport=900%2C-4%2C0.1&scaling=min-zoom&starting-point-node-id=12%3A276"> <img src="https://img.icons8.com/fluency/80/null/figma.png"/>
 
 ## ATTRIBUTIONS
 
@@ -67,4 +68,4 @@ To deploy this project run
 
 
 
-[def]: "F:\mechackathon\HTML.png"
+
