@@ -1,0 +1,85 @@
+<!-- <!DOCTYPE html>
+<html>
+  <head>
+    <title>Product/Startup/Idea Feedback Form</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Product/Startup/Idea Submission Form</h1>
+      <form id="feedback-form">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="place">Place:</label>
+        <input type="text" id="place" name="place" required>
+
+        <label for="product-idea-name">Name of Product/Startup/Idea:</label>
+        <input type="text" id="product-idea-name" name="product-idea-name" required>
+
+        <label>Product or Idea:</label>
+        <div class="checkbox-container">
+          <input type="checkbox" id="product" name="product-idea" value="product" required>
+          <label for="product">Product</label>
+
+          <input type="checkbox" id="idea" name="product-idea" value="idea" required>
+          <label for="idea">Idea</label>
+        </div>
+        <label for="image">Image:</label>
+        <input type="file" id="image" name="image">
+        <div class="t1"><h6>Upload only .jpeg of size <1MB</h6></div>
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" rows="5" required></textarea>
+
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Product/Startup/Idea Feedback Form</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Product/Startup/Idea Submission Form</h1>
+      <form id="feedback-form" method="post" action="submit.php" enctype="multipart/form-data">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="place">Place:</label>
+        <input type="text" id="place" name="place" required>
+
+        <label for="product-idea-name">Name of Product/Startup/Idea:</label>
+        <input type="text" id="product-idea-name" name="product-idea-name" required>
+
+        <label>Product or Idea:</label>
+        <div class="checkbox-container">
+          <input type="checkbox" id="product" name="product-idea" value="product" >
+          <label for="product">Product</label>
+
+          <input type="checkbox" id="idea" name="product-idea" value="idea" >
+          <label for="idea">Idea</label>
+        </div>
+        <label for="image">Image:</label>
+        <input type="file" id="image" name="image">
+        <div class="t1"><h6>Upload only .jpeg of size <1MB</h6></div>
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" rows="5" required></textarea>
+
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
