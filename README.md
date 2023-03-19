@@ -3,6 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
 # LOOPERS-MEC
 # INNVENTO 
 **TEAM LOOPERS**
@@ -66,7 +67,16 @@ To deploy this project run
 
 
 
-
+[contributors-shield]: https://img.shields.io/github/contributors/JUDU-13/LOOPERS-MEC.svg?style=for-the-badge
+[contributors-url]: https://github.com/graphs/contributorsJUDU-13/LOOPERS-MEC
+[forks-shield]: https://img.shields.io/github/forks/JUDU-13/LOOPERS-MEC.svg?style=for-the-badge
+[forks-url]: https://github.com/network/members/JUDU-13/LOOPERS-MEC/network/members
+[stars-shield]: https://img.shields.io/github/stars/JUDU-13/LOOPERS-MEC.svg?style=for-the-badge
+[stars-url]: https://github.com/JUDU-13/LOOPERS-MEC/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JUDU-13/LOOPERS-MEC.svg?style=for-the-badge
+[issues-url]: https://github.com/JUDU-13/LOOPERS-MEC/issues
+[license-shield]: https://img.shields.io/github/license/JUDU-13/LOOPERS-MEC.svg?style=for-the-badge
+[license-url]: https://github.com/JUDU-13/LOOPERS-MEC/blob/main/LICENCE
 
 
 
