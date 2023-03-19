@@ -1,7 +1,11 @@
 # LOOPERS-MEC
 # INNVENTO 
 **TEAM LOOPERS**
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 A web application that provides a platform for innovators and entrepreneurs to showcase their projects and ideas to potential investors to secure funding.
 
