@@ -48,6 +48,7 @@ To deploy this project run
 <img src="https://img.icons8.com/color/80/null/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/80/null/css3.png"/>
 <img src="https://img.icons8.com/officel/80/null/php-logo.png"/>
+<img src="https://img.icons8.com/fluency/80/null/javascript.png"/>
 
 
 ## SCREENSHOTS 
